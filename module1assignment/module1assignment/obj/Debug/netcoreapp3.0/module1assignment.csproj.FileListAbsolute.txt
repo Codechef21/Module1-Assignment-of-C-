@@ -1,0 +1,11 @@
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment.deps.json
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment.runtimeconfig.json
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment.runtimeconfig.dev.json
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment.dll
+/Users/tanvir/Projects/module1assignment/module1assignment/bin/Debug/netcoreapp3.0/module1assignment.pdb
+/Users/tanvir/Projects/module1assignment/module1assignment/obj/Debug/netcoreapp3.0/module1assignment.csprojAssemblyReference.cache
+/Users/tanvir/Projects/module1assignment/module1assignment/obj/Debug/netcoreapp3.0/module1assignment.AssemblyInfoInputs.cache
+/Users/tanvir/Projects/module1assignment/module1assignment/obj/Debug/netcoreapp3.0/module1assignment.AssemblyInfo.cs
+/Users/tanvir/Projects/module1assignment/module1assignment/obj/Debug/netcoreapp3.0/module1assignment.dll
+/Users/tanvir/Projects/module1assignment/module1assignment/obj/Debug/netcoreapp3.0/module1assignment.pdb
